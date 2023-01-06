@@ -104,3 +104,4 @@ const stack = new Stack<number>()
       - PostList.tsx - 여러 포스트 아이템을 묶은 포스트 리스트
       - ProfileImage.tsx - 소개글 구역에서 사용할 프로필 이미지
 aa
+# typescript_study
